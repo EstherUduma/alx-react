@@ -2,4 +2,4 @@
 node_modules/
 
 # Build output directory
-public/bundle.js
+#public/bundle.js
